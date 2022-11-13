@@ -2,7 +2,7 @@
 - 👀 I’m interested in  honing my skills as a Software Developer
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Aundreya.7@gmail.com
+- 📫 How to reach me Akimballintech@gmail.com
 
 <!---
 Andrea-Kimball/Andrea-Kimball is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
